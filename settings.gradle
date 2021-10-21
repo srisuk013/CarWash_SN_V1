@@ -1,0 +1,2 @@
+rootProject.name = "CarWash_SN_V1"
+include ':app'
